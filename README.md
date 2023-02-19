@@ -2,7 +2,7 @@
 Machine learning project, the architecture for proGAN is the same only changes in log.
 If you want to run it and see the result use command: tensorboard --logdir logs 
 
-# About File
+# About Files
 the file where separeted just for order question, the architecture is the same. 
 
 *dcgan-celeba*: DCGAN trained on CelebA dataset
